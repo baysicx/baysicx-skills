@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resume Session"
+  short_description: "Resume recent distinct thread checkpoints"
+  default_prompt: "Use $resume-session to restore the latest checkpoint state of the three most recent distinct threads."

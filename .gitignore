@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Codex-managed built-in skills and local desktop artifacts
+/.system/
+.DS_Store

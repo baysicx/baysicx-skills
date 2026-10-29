@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Standards"
+  short_description: "Review and edit Python by repository rules"
+  default_prompt: "Use $python-standards to review or edit Python code with the repository's runtimes, contracts, and validation rules."

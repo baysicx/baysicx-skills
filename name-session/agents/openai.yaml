@@ -1,0 +1,4 @@
+interface:
+  display_name: "Name Session"
+  short_description: "为当前 Codex 任务生成并应用简洁标题，支持可选状态标签"
+  default_prompt: "使用 $name-session TAG TITLE... 为当前任务设置一个简洁标题。"

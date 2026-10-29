@@ -1,0 +1,4 @@
+interface:
+  display_name: "Session Log"
+  short_description: "Checkpoint a thread with full and incremental logs"
+  default_prompt: "Use $session-log to checkpoint this thread under docs/sessions, automatically choosing a full anchor or incremental update."
